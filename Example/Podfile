@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GMRouterKit_Tests' do
+  pod 'GMRouterKit', :path => '../'
+  
+  
+end
