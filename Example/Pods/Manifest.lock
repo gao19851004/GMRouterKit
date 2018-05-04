@@ -1,0 +1,16 @@
+PODS:
+  - GMRouterKit (0.1.0)
+
+DEPENDENCIES:
+  - GMRouterKit (from `../`)
+
+EXTERNAL SOURCES:
+  GMRouterKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GMRouterKit: 21bb93dc48024910774401db6507087da4a9c569
+
+PODFILE CHECKSUM: 195cd16fdf0197bb9500e73a8eb9a61668e99312
+
+COCOAPODS: 1.5.0
